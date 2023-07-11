@@ -1,0 +1,15 @@
+E:\GIT edu repo\C# LESSON_1\seminar _1\bin\Debug\net7.0\seminar _1.exe
+E:\GIT edu repo\C# LESSON_1\seminar _1\bin\Debug\net7.0\seminar _1.deps.json
+E:\GIT edu repo\C# LESSON_1\seminar _1\bin\Debug\net7.0\seminar _1.runtimeconfig.json
+E:\GIT edu repo\C# LESSON_1\seminar _1\bin\Debug\net7.0\seminar _1.dll
+E:\GIT edu repo\C# LESSON_1\seminar _1\bin\Debug\net7.0\seminar _1.pdb
+E:\GIT edu repo\C# LESSON_1\seminar _1\obj\Debug\net7.0\seminar _1.csproj.AssemblyReference.cache
+E:\GIT edu repo\C# LESSON_1\seminar _1\obj\Debug\net7.0\seminar _1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT edu repo\C# LESSON_1\seminar _1\obj\Debug\net7.0\seminar _1.AssemblyInfoInputs.cache
+E:\GIT edu repo\C# LESSON_1\seminar _1\obj\Debug\net7.0\seminar _1.AssemblyInfo.cs
+E:\GIT edu repo\C# LESSON_1\seminar _1\obj\Debug\net7.0\seminar _1.csproj.CoreCompileInputs.cache
+E:\GIT edu repo\C# LESSON_1\seminar _1\obj\Debug\net7.0\seminar _1.dll
+E:\GIT edu repo\C# LESSON_1\seminar _1\obj\Debug\net7.0\refint\seminar _1.dll
+E:\GIT edu repo\C# LESSON_1\seminar _1\obj\Debug\net7.0\seminar _1.pdb
+E:\GIT edu repo\C# LESSON_1\seminar _1\obj\Debug\net7.0\seminar _1.genruntimeconfig.cache
+E:\GIT edu repo\C# LESSON_1\seminar _1\obj\Debug\net7.0\ref\seminar _1.dll
