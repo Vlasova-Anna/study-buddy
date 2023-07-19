@@ -5,6 +5,18 @@
 ## Выделение текста:
 для создания некрупного заголовка/подзаголовка напечатайте в начале текста двойную решетку в англ раскладке (##) - автоматически добавится полоса отчерка заголовка/подзаголовка от основного текста.
 
+## Alternate Syntax
+
+Alternatively, on the line below the text, add any number of == characters for heading level 1 or -- characters for heading level 2.
+
+Markdown	HTML	Rendered Output
+Heading level 1
+===============	<h1>Heading level 1</h1>	
+Heading level 1
+Heading level 2
+---------------	<h2>Heading level 2</h2>	
+Heading level 2
+
 *Курсив.* для этого обрамите текст одинарными звездочками
 
 **Полужирный** для этого обрамите текст двойными звездочками
