@@ -1,0 +1,5 @@
+E:\GIT edu repo\папка для дз новая\obj\Debug\net7.0\папка для дз новая.csproj.AssemblyReference.cache
+E:\GIT edu repo\папка для дз новая\obj\Debug\net7.0\папка для дз новая.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT edu repo\папка для дз новая\obj\Debug\net7.0\папка для дз новая.AssemblyInfoInputs.cache
+E:\GIT edu repo\папка для дз новая\obj\Debug\net7.0\папка для дз новая.AssemblyInfo.cs
+E:\GIT edu repo\папка для дз новая\obj\Debug\net7.0\папка для дз новая.csproj.CoreCompileInputs.cache
