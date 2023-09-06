@@ -3,3 +3,13 @@ E:\GIT edu repo\папка для дз новая\obj\Debug\net7.0\папка д
 E:\GIT edu repo\папка для дз новая\obj\Debug\net7.0\папка для дз новая.AssemblyInfoInputs.cache
 E:\GIT edu repo\папка для дз новая\obj\Debug\net7.0\папка для дз новая.AssemblyInfo.cs
 E:\GIT edu repo\папка для дз новая\obj\Debug\net7.0\папка для дз новая.csproj.CoreCompileInputs.cache
+E:\GIT edu repo\папка для дз новая\bin\Debug\net7.0\папка для дз новая.exe
+E:\GIT edu repo\папка для дз новая\bin\Debug\net7.0\папка для дз новая.deps.json
+E:\GIT edu repo\папка для дз новая\bin\Debug\net7.0\папка для дз новая.runtimeconfig.json
+E:\GIT edu repo\папка для дз новая\bin\Debug\net7.0\папка для дз новая.dll
+E:\GIT edu repo\папка для дз новая\bin\Debug\net7.0\папка для дз новая.pdb
+E:\GIT edu repo\папка для дз новая\obj\Debug\net7.0\папка для дз новая.dll
+E:\GIT edu repo\папка для дз новая\obj\Debug\net7.0\refint\папка для дз новая.dll
+E:\GIT edu repo\папка для дз новая\obj\Debug\net7.0\папка для дз новая.pdb
+E:\GIT edu repo\папка для дз новая\obj\Debug\net7.0\папка для дз новая.genruntimeconfig.cache
+E:\GIT edu repo\папка для дз новая\obj\Debug\net7.0\ref\папка для дз новая.dll

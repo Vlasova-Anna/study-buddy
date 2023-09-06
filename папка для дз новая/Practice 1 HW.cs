@@ -5,18 +5,19 @@
 // a = -9 b = -3 -> max = -3
 
 Console.WriteLine("Привет, хочешь узнать, какое из этих чисел больше?");
-Console.WriteLine("Введи первое число - ");
+Console.WriteLine("Введи первое число  ");
 
 int A = Convert.ToInt32 (Console.ReadLine());
 
-Console.WriteLine("Введи второе число - ");
+Console.WriteLine("Введи второе число  ");
 
 int B = Convert.ToInt32(Console.Read());
-if(A > B)
+if (A > B)
 {
 Console.WriteLine("Первое число больше! Значит, второе -меньше.");
 }
-else
+
+if (B > A)
 {
 Console.WriteLine("Второе число больше! Значит, первое -меньше.");
 }
@@ -28,24 +29,24 @@ Console.WriteLine("Второе число больше! Значит, перв�
 // // 44 5 78 -> 78
 // // 22 3 9 -> 22
 
-// int max = 0;
+int max = 0;
 
-// Console.WriteLine("Введите число");
-// int a = Convert.ToInt32 (Console.ReadLine());
-// Console.WriteLine("Введите число");
-// int b = Convert.ToInt32 (Console.ReadLine());
-// Console.WriteLine("Введите число");
-// int c = Convert.ToInt32 (Console.ReadLine());
+Console.WriteLine("Введите число");
+int a = Convert.ToInt32 (Console.ReadLine());
+Console.WriteLine("Введите число");
+int b = Convert.ToInt32 (Console.ReadLine());
+Console.WriteLine("Введите число");
+int c = Convert.ToInt32 (Console.ReadLine());
 
-// max=a;
-// if (b>max)
-// {max=b;
-// }
-// if (c>max)
-// {max=c;
-// }
-// int result= max;
-// Console.WriteLine(result);
+max=a;
+if (b>max)
+{max=b;
+}
+if (c>max)
+{max=c;
+}
+int result= max;
+Console.WriteLine(result);
 
 
 
@@ -55,17 +56,17 @@ Console.WriteLine("Второе число больше! Значит, перв�
 // // -3 -> нет
 // // 7 -> нет
 
-// Console.WriteLine("Введите число");
-// int Num = Convert.ToInt32 (Console.ReadLine());
+Console.WriteLine("Введите число");
+int Num = Convert.ToInt32 (Console.ReadLine());
 
-// if (Num%2 == 0)
-// {
-// Console.WriteLine("Ваше число чётное!");
-// }
-// else
-// {
-// Console.WriteLine("Ваше число нечётное!");
-// }
+if (Num%2 == 0)
+{
+Console.WriteLine("Ваше число чётное!");
+}
+else
+{
+Console.WriteLine("Ваше число нечётное!");
+}
 
 
 
@@ -74,13 +75,13 @@ Console.WriteLine("Второе число больше! Значит, перв�
 // // 5 -> 2, 4
 // // 8 -> 2, 4, 6, 8
 
-// Console.WriteLine("Введите число");
-// int N = Convert.ToInt32 (Console.ReadLine());
+Console.WriteLine("Введите число");
+int N = Convert.ToInt32 (Console.ReadLine());
 
-// int startpoint = 1;
-// while (startpoint < N)
-// {
-// Console.WriteLine(startpoint+1);
-// startpoint+= 2;
-// }
+int startpoint = 1;
+while (startpoint < N)
+{
+Console.WriteLine(startpoint+1);
+startpoint+= 2;
+}
 
